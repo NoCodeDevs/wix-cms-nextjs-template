@@ -14,7 +14,7 @@ export default async function About() {
       <div className="max-w-7xl mx-auto mt-[-120px] relative bg-white px-8 sm:px-20">
         <h1 className="text-center py-8 font-site">About ChoosEquality</h1>
         <p className="pt-6 max-w-3xl text-sm text-center mx-auto">
-          ChoosEquality is a non-profit organization that aims to bring
+          ChoosNCD is a non-profit organization that aims to bring
           education to everyone, regardless of age, background, or location. We
           believe that education is a human right and a powerful force for
           positive change in the world. We provide training, tools, resources,
